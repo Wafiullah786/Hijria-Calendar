@@ -10,3 +10,4 @@ HIJRIA FEATURES
 4. Azan Timings
 5. Tasbeeh Counter
 6. Multi-Language
+<img src="/path/to/Screenshot_20230412-114256.jpg" alt="Alt text" title="Optional title">
