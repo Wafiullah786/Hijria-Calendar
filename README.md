@@ -13,6 +13,13 @@ HIJRIA FEATURES
 5. Tasbeeh Counter
 6. Multi-Language
 
+TECHNICALITIES USED
+1. Flutter
+2. Cubit Statemanagement
+3. REST APIs
+4. Native Code Invoking
+5. Custom Compass
+
 APPLICATION SCREENSHOTS
 
 <img src = "Screenshot_20230412-114256.jpg" width ="300" /> <img src = "Screenshot_20230412-114304.jpg" width ="300" /> <img src = "Screenshot_20230412-114319.jpg" width ="300" /> <img src = "Screenshot_20230412-114328.jpg" width ="300" /> <img src = "Screenshot_20230412-114332.jpg" width ="300" /> <img src = "Screenshot_20230412-114340.jpg" width ="300" /> <img src = "Screenshot_20230412-114450.jpg" width ="300" /> 
