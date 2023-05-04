@@ -19,6 +19,7 @@ TECHNICALITIES USED
 3. REST APIs
 4. Native Code Invoking
 5. Custom Compass
+6. MySQL Database
 
 APPLICATION SCREENSHOTS
 
