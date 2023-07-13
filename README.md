@@ -33,3 +33,7 @@ https://apps.apple.com/ca/app/hijria/id1623978880
 Playstore Link
 https://play.google.com/store/apps/details?id=com.jmmtechnologies.hijricalendar
 
+
+
+                                                              THANKS
+
